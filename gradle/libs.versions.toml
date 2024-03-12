@@ -44,8 +44,6 @@ coroutines-lifecycle = { group = "androidx.lifecycle", name = "lifecycle-runtime
 coil = { group = "io.coil-kt", name = "coil-compose", version.ref = "coilVersion" }
 dagger-hilt = { group = "com.google.dagger", name = "hilt-android", version.ref = "hiltVersion"}
 dagger-hilt-kapt = { group = "com.google.dagger", name = "hilt-android-compiler", version.ref = "hiltVersion"}
-hilt-lifecycle-viewmodel = { group = "androidx.hilt", name = "hilt-lifecycle-viewmodel", version.ref = "hiltViewModel"}
-hilt-lifecycle-kapt = { group = "androidx.hilt", name = "hilt-compiler", version.ref = "hiltCompiler"}
 hilt-navigation = { group = "androidx.hilt", name = "hilt-navigation-compose", version.ref = "hiltNavigation"}
 squareup-okhttp3 = { group = "com.squareup.okhttp3", name = "okhttp", version.ref = "okhttpVersion" }
 okhttp3-loggin-interceptor = { group = "com.squareup.okhttp3", name = "logging-interceptor", version.ref = "okhttpVersion"}
